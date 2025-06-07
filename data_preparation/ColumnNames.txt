@@ -1,0 +1,71 @@
+File: acov19DAG.csv 
+[1] "Region"       "Dag"          "Fall.per.dag"
+---------------------------
+File: bcov19Kom.csv 
+[1] "Kommun"                                   "Indikator"                               
+[3] "År.och.vecka"                             "Fall.efter.kommun.och.vecka..tidsserie.."
+---------------------------
+File: ccov19kon.csv 
+[1] "Region"                                        "Indikator"                                    
+[3] "Kön"                                           "År.och.vecka"                                 
+[5] "Fall.efter.kön..region.och.vecka..tidsserie.."
+---------------------------
+File: ccov19Reg.csv 
+[1] "Region"          "Indikator"       "År.och.vecka"    "Bekräftade.fall"
+---------------------------
+File: ccov19Regsasong.csv 
+[1] "Region"                                                                
+[2] "Indikator"                                                             
+[3] "Vecka"                                                                 
+[4] "År"                                                                    
+[5] "Fall..intensivvårdade.och.avlidna.efter.region.och.vecka..säsongsvis.."
+---------------------------
+File: dcov19ald.csv 
+[1] "Indikator"                             "Åldersgrupp"                          
+[3] "År.och.vecka"                          "Fall.efter.åldersgrupp..vecka.och.år."
+---------------------------
+File: ecov19sabo.csv 
+[1] "Region"                                                                                                     
+[2] "Kategori"                                                                                                   
+[3] "År.och.vecka"                                                                                               
+[4] "Fall.bland.personer.65.år.och.äldre.med.insats.enligt.socialtjänstlagen.efter.region.och.vecka..tidsserie.."
+---------------------------
+File: ecov19sabosasong.csv 
+[1] "Region"                                                                 
+[2] "Kategori"                                                               
+[3] "Vecka"                                                                  
+[4] "År"                                                                     
+[5] "Fall.bland.personer.65.år.och.äldre.med.insats.enligt.socialtjänstlagen"
+---------------------------
+File: PCRtestVAr_k.csv 
+[1] "Region"                    "Kategori"                  "Åldersgrupp"              
+[4] "Kön"                       "År.och.vecka"              "Testade.individer.med.PCR"
+---------------------------
+File: PCRtestVAr_m.csv 
+[1] "Region"                    "Kategori"                  "Åldersgrupp"              
+[4] "Kön"                       "År.och.vecka"              "Testade.individer.med.PCR"
+---------------------------
+File: PCRtestVAr_s.csv 
+[1] "Region"                    "Kategori"                  "Åldersgrupp"              
+[4] "Kön"                       "År.och.vecka"              "Testade.individer.med.PCR"
+---------------------------
+File: test2020_20230406-120506.csv 
+[1] "Region"                                  "Kategori"                               
+[3] "Vecka"                                   "PCR.testade.individer..vecka.27.39.2020"
+---------------------------
+File: xcov19ivavDAG.csv 
+[1] "Indikator"                                  "Dag"                                       
+[3] "Intensivvårdade.respektive.avlidna.per.dag"
+---------------------------
+File: ycov19ivavald.csv 
+[1] "Indikator"                                                                
+[2] "Åldersgrupp"                                                              
+[3] "År.och.vecka"                                                             
+[4] "Intensivvårdade.och.avlidna.fall.efter.åldersgrupp.och.vecka..tidsserie.."
+---------------------------
+File: ycov19ivavkon.csv 
+[1] "Indikator"                                                        
+[2] "Kön"                                                              
+[3] "År.och.vecka"                                                     
+[4] "Intensivvårdade.och.avlidna.fall.efter.kön.och.vecka..tidsserie.."
+---------------------------
